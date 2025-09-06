@@ -1,0 +1,4 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_focused="true" android:drawable="@drawable/input_field_focused" />
+    <item android:drawable="@drawable/input_field_background" />
+</selector>
